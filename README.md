@@ -1,7 +1,7 @@
 # EXNO2DS
 
- ### NAME : PREETHI D
- ### REGISTER NUMBER : 212224040250
+ ### NAME : Joshua Clement D
+ ### REGISTER NUMBER : 212224040143
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
